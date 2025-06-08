@@ -48,6 +48,6 @@ console.log(name + " is " + age + " years old " + isstudent);*/
          break;
     } */
 
-         for (let i = 1; i => 5; i++);{
+         for (let i = 1; i => 5; i++){
             console.log("number" + i);
          }
