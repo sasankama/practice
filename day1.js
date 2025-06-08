@@ -48,6 +48,20 @@ console.log(name + " is " + age + " years old " + isstudent);*/
          break;
     } */
 
-         for (let i = 1; i => 5; i++);{
+        /* for (let i = 1; i => 5; i++);{
             console.log("number" + i);
-         }
+         }*/
+        /*let i = 1;
+while (i <= 5){
+ console.log ("Number"+i);
+ i++
+}*/
+/*let i = 1;
+do {
+ console.log (" count: " +i);
+ i++;}
+ while ( i <= 5);*/
+/*function green () {
+ console.log ("hello, world");
+}
+green ();*/
